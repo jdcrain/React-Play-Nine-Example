@@ -1,0 +1,13 @@
+{
+  "name": "play-nine-react-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "4.7.0",
+    "lodash": "4.17.11",
+    "react": "16.0.0",
+    "react-dom": "16.0.0"
+  }
+}
