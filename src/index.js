@@ -3,14 +3,9 @@ import React from "react";
 import _ from "lodash";
 import "./app.css";
 
+// TODO: add a timeout feature so you must win the game in under a minute
+
 const Stars = props => {
-  //const numberOfStars = Game.randomNumber();
-
-  //let stars = [];
-  //for (let i=0; i<numberOfStars; i++) {
-  //	stars.push(<i key={i} className="fa fa-star"></i>)
-  //}
-
   return (
     <div className="col-5">
       {_.range(props.numberOfStars).map(i => (
