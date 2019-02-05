@@ -5,7 +5,6 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "font-awesome": "4.7.0",
     "lodash": "4.17.11",
     "react": ">=16.7.0",
     "react-dom": ">=16.7.0"
